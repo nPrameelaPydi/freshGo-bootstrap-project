@@ -1,0 +1,22 @@
+/*Navbar*/
+/*.navbar {
+    position: fixed;
+}*/
+
+
+.carousel-item img {
+    height: 450px;
+    object-fit: cover;
+}
+
+/*Footer*/
+
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    /*font-style: italic;*/
+}
+
+.form-control.shadow-0:focus {
+    box-shadow: none;
+}
